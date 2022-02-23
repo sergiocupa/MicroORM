@@ -2,7 +2,7 @@
 
 
 Micro ORM is a library that maps between objects and database queries.
-This micro ORM not only maps the result of a query, but also provides a complete assembler using in C# expressions, thus eliminating explicit sql in the code.
+This micro ORM not only maps the result of a query, but also provides a complete C# expression assembler, thus eliminating the explicit sql in the code.
 It cannot be classified as a full ORM because it does not support query buffers, query assembly buffers, joins, on-demand subqueries.
 
 The library will be functional after the basic testing phase, first topic of NEXT FEATURES.
